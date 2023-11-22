@@ -1,0 +1,45 @@
+.box-titolo{
+    display: flex;
+    justify-content: center;
+}
+.title-box1{
+    font-size:60px;
+    padding:20px;
+}
+.text-box1{
+    font-size:40px;
+    padding:10px;
+
+}
+.foto-mia{
+    width: 100%;
+}
+@media(min-width:48em){
+    .foto-mia{
+        max-width: 300px;
+        float: right;
+    }
+}
+.title-box2{
+    font-size:50px;
+    padding:20px;
+}
+
+.container-lg{
+    padding-top:100px;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.2);
+    margin-top:20px;
+}
+.col-xl-12-ver2{
+    display: flex;
+    justify-content: center;
+
+
+}
+.col-xl-6{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+
+

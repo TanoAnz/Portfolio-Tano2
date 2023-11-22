@@ -1,0 +1,8 @@
+.container-lg{
+    margin-top:100px;
+    width:400px;
+    box-shadow:1px 1px 4px 0 rgba(0, 0, 0, 0.15);
+    padding:25px;
+    border-radius: 3px;
+    background-color: rgb(240, 238, 238);
+}

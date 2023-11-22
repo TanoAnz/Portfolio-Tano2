@@ -1,0 +1,25 @@
+
+.titolo{
+  margin-top:100px; 
+  display: flex;
+  justify-content: center; 
+  
+}
+
+.n-progetto{
+    color:black;
+    font-size:35px;
+    
+
+}
+.container-lg{
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.20);
+    padding-bottom: 20px;
+}
+.footer{
+    margin-top:350px;
+}
+.col-xl-6{
+    border:1px solid black;
+    border-radius:5px;
+}
