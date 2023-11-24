@@ -41,5 +41,9 @@
     justify-content: center;
     margin-top:20px;
 }
-
+.foto-html,
+.foto-c,
+.foto-css{
+    width: 100%;
+}
 

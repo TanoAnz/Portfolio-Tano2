@@ -107,7 +107,7 @@ body{
 
 }
 .footer{
-    padding:40px 0;
+    padding-bottom:5px;
     background-color:#ffffff;
     width: 100%;
     margin-top:30px;
@@ -117,7 +117,6 @@ body{
     display: flex;
     justify-content: center;
     position: relative;
-    bottom:35px;
 }
 .nome-sito{
     font-family: 'Permanent Marker', cursive;
@@ -132,16 +131,26 @@ body{
 .social{
     display: flex;
     justify-content:space-around;
+    position: relative;
+    bottom:10px;
 }
-.logo-social{
-    width:80px;
-    margin-left:25px;
+.logo-insta{
+    width:45px;
 }
 .logo-git{
-    width:140px;
+    width:90px;
     margin-left:25px;
+}
+.logo-tiktok{
+    width:52px;
+    position: relative;
+    bottom:3px;
 }
 .email{
     position: relative;
-    top:15px;
+    bottom:30px;
+    font-size: 12px;
+    
 }
+
+
