@@ -46,4 +46,10 @@
 .foto-css{
     width: 100%;
 }
+@media(min-width:1024px){
+    .foto-c{
+        width:600px;
+    }
+}
+
 
